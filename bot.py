@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 # ===== НАСТРОЙКИ =====
 TELEGRAM_TOKEN = "8595821904:AAFlf_PHkSite8iz-vwXrGCTGCjMWXhEt2U"   # Токен от @BotFather
-OPENROUTER_API_KEY = "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"  # Ключ с openrouter.ai
+OPENROUTER_API_KEY = "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"  # Ключ с openrouter.ai
 MODEL = "google/gemini-2.0-flash-exp:free"  # Модель с поддержкой vision (можно менять)
 # =====================
 
